@@ -1,0 +1,9 @@
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\bin\Debug\demoFunctionalUITesting.exe.config
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\bin\Debug\demoFunctionalUITesting.exe
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\bin\Debug\demoFunctionalUITesting.pdb
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.csprojResolveAssemblyReference.cache
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.Form1.resources
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.Properties.Resources.resources
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.csproj.GenerateResource.Cache
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.exe
+c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.pdb
