@@ -30,6 +30,7 @@ namespace demoFunctionalUITesting
             else
             {
                 label2.Text = "Error";
+                label2.Text = "Error!";
             }
         }
 
