@@ -7,3 +7,5 @@ c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITestin
 c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.csproj.GenerateResource.Cache
 c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.exe
 c:\users\kien.trinh\documents\visual studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\obj\Debug\demoFunctionalUITesting.pdb
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\bin\Debug\nunit.framework.dll
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\demoFunctionalUITesting\bin\Debug\nunit.framework.xml

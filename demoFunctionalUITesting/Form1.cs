@@ -20,17 +20,17 @@ namespace demoFunctionalUITesting
         private void button1_Click(object sender, EventArgs e)
         {
             Double x = 0, y = 0, result = 0;
+            Calculator _cal = new Calculator();
             if (Double.TryParse(textBox1.Text, out x) && Double.TryParse(textBox2.Text, out y))
             {
                 // you know that the parsing attempt
                 // was successful
-                result = x + y;
+                result = _cal.Add(x, y);
                 label2.Text = result.ToString();
             }
             else
             {
                 label2.Text = "Error";
-                //label2.Text = "Error!";
             }
         }
 

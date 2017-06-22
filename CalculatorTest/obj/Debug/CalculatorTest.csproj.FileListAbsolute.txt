@@ -1,0 +1,9 @@
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\demoFunctionalUITesting.exe
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\demoFunctionalUITesting.pdb
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\kien.trinh\Documents\Visual Studio 2015\Projects\demoFunctionalUITesting\CalculatorTest\obj\Debug\CalculatorTest.pdb
