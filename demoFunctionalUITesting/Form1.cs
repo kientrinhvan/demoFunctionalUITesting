@@ -37,7 +37,7 @@ namespace demoFunctionalUITesting
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+			//do nothing
         }
 
         private void button2_Click(object sender, EventArgs e)
